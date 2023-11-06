@@ -1,3 +1,7 @@
+---
+authors: [listder]
+tags: [android, winlator]
+---
 # 手机游玩 galgame 模拟器的终极解决方案: winlator
 
 > 原文链接：https://www.bilibili.com/read/cv27368804
